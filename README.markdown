@@ -23,3 +23,7 @@ This should create the XPI file and load the extension in Firefox for installati
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kylehuff/webpg-firefox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/webpg/webpg-firefox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
